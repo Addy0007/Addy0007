@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy0007" alt="addy0007" /></a> </p>
 
-- 🔭 I’m currently working on [ETS](https://github.com/Addy0007/Employee-Tracking-System.git)
+- 🔭 I’m currently working on HKL-Sons a startup website Using React and SpringBoot (https://github.com/Addy0007/HKL-Sons)
 
 - 🌱 I’m currently learning **Spring Boot & DevOps**
 
